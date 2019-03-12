@@ -1,0 +1,16 @@
+{
+  "name": "browserstack",
+  "version": "0.0.1",
+  "description": "remote testing with browserstack devices",
+  "main": "browserstack.js",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alistair.macdonald@digital.hmrc.gov.uk",
+  "license": "ISC"
+}
