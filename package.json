@@ -1,6 +1,6 @@
 {
-  "name": "browserstack",
-  "version": "0.0.1",
+  "name": "gforms-browserstack",
+  "version": "0.1.0",
   "description": "remote testing with browserstack devices",
   "main": "browserstack.js",
   "dependencies": {
