@@ -53,6 +53,12 @@ const browsers = {
     'device' : 'iPad Mini 4',
     'real_mobile' : 'true',
     'browserName': 'Safari'
+  },
+  GALAXYTAB: {
+    'os_version' : '8.1',
+    'device' : 'Samsung Galaxy Tab S4',
+    'real_mobile' : 'true',
+    'browserName': 'Chrome'
   }
 }
 
